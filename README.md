@@ -1,2 +1,2 @@
 # AGame
-A game project of mine AJ
+A game project of mine and AJ
